@@ -79,7 +79,7 @@
 <p align="center"><img margin="Auto" width="800" src="https://github.com/NongShiN/Best_Location_for_Night_Pharmacy/assets/44831566/5c57162e-b221-4104-88cf-f4e2ab20ea43"></p>
 <p align="center"><img margin="Auto" width="800" src="https://github.com/NongShiN/Best_Location_for_Night_Pharmacy/assets/44831566/a6cfcf81-27c0-4774-94f8-1780bf2631bf"></p>
 
-####3. 변수 데이터 전처리 및 가중치 설정 후 정규
+#### 3. 변수 데이터 전처리 및 가중치 설정 후 정규
 <p align="center"><img margin="Auto" width="800" src="https://github.com/NongShiN/Best_Location_for_Night_Pharmacy/assets/44831566/025e6250-192a-44ef-b8e9-70edb4a7ced3"></p>
 <p align="center"><img margin="Auto" width="800" src="https://github.com/NongShiN/Best_Location_for_Night_Pharmacy/assets/44831566/70b994ca-e5f7-4ec0-b9fd-c155335ce6ab"></p>
 <p align="center"><img margin="Auto" width="800" src="https://github.com/NongShiN/Best_Location_for_Night_Pharmacy/assets/44831566/2610a430-1dc0-4703-80c0-b319f27ec7cc"></p>
